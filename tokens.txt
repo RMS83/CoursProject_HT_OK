@@ -1,0 +1,9 @@
+Введите application_key OK в строку 2:
+
+Введите access_token OK в строку 4:
+
+Введите session_secret_key OK в строку 6:
+
+Введите токен Яндекс диска в строку №8
+
+
